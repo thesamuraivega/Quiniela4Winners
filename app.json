@@ -1,0 +1,18 @@
+{
+  "expo": {
+  "name":"Quiniela4Winners",
+  "icon":"./logo.png",
+  "description":"some description about our project",
+  "sdkVersion": "27.0.0",
+  "version": "1.0.0",
+  "android":{
+       "package":"com.M3XLabs.Quiniela4Winners",
+        "versionCode":1 , 
+        "icon":"./logo.png"
+            }
+  },
+  "ios": {
+    "bundleIdentifier": "com.M3XLabs.Quiniela4Winners"
+  }
+}
+  
